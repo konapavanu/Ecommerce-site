@@ -1,0 +1,16 @@
+
+ /* Navbar Styling */
+      .navbar {
+        background: linear-gradient(90deg, #1f1c2c, #928dab);
+        padding: 1rem;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      }
+      .navbar-brand,
+      .nav-link {
+        color: #fff !important;
+        font-weight: 500;
+      }
+      .nav-link:hover {
+        color: #ffd700 !important;
+      }
