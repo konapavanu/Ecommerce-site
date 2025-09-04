@@ -26,6 +26,9 @@ A simple e-commerce web application built with **Django** and **Bootstrap** that
 <img width="867" height="699" alt="Image" src="https://github.com/user-attachments/assets/5b3a5744-74b9-441c-b1e9-b68cb2f7bb4a" />
 
 
+Run this server: https://ecommerce-site-2-x4fe.onrender.com
+
+
 
 
 ---
